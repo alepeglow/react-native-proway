@@ -1,7 +1,7 @@
-import ExemploStorage from "./src/exemploStorage";
+import TodoScreen from "./src/screens/TodoScreen";
 
 export default function App() {
-  return <ExemploStorage/>
+  return <TodoScreen/>
 }
 
 
